@@ -1,0 +1,7 @@
+LIBRARY	"libcruise"
+EXPORTS
+    Cruise_Start
+    Cruise_Stop
+	Cruise_PresetRegister
+	Cruise_Control
+	Cruise_ResetChannel
